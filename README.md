@@ -33,6 +33,28 @@
         <span>PhpStorm</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/phpstorm.svg">
       </td>
+      <td width="25%" align="center">
+        <span>NuxtJs</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/nuxt.svg">
+      </td>
+    </tr>
+    <tr>
+      <td width="25%" align="center">
+        <span>TypeScript</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/typescript.svg">
+      </td>
+      <td width="25%" align="center">
+        <span>PostMan</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/postman.svg">
+      </td>
+       <td width="25%" align="center">
+        <span>TailWindcss</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/tailwindcss-icon.svg">
+      </td>
+       <td width="25%" align="center">
+        <span>Bootstrap</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/bootstrap.svg">
+      </td>
     </tr>
   </tbody>
 </table>
