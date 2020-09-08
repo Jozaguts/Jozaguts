@@ -7,18 +7,21 @@
 ![GitHub followers](https://img.shields.io/github/followers/jozaguts?label=Follow&style=social)
 ![](https://visitor-badge.glitch.me/badge?page_id=jozaguts.jozaguts)
 
-
-<dl>
-  <dt> <h2>Profile</h2> </dt>
-  <dd> 
-    <p>
+<table style="margin: auto auto">
+  <tbody style="background-color:#333;">
+    <tr >
+      <td width="70%" align="left">
         I am a Web Developer that focuses on front end and back end frameworks such as Vuejs and Laravel, I have 
-        a passion for Design Systems, Web Accessibility, patters desing, data structure and serverless Technologies
-        such as AWS, Heroku and Google Cloud. To grow up my skills I focus on building Laravel and Vuejs 
-        stack application. 
-     </p>
-  </dd>
-</dl>
+          a passion for Design Systems, Web Accessibility, patters desing, data structure and serverless Technologies
+          such as AWS, Heroku and Google Cloud. To grow up my skills I focus on building Laravel and Vuejs 
+          stack application. 
+      </td>
+      <td width="30%" align="right">           
+          <img width="190px" height="180px" src="https://jozaguts.dev/_nuxt/img/383e0e3.png" alt="Sagit Gutiérrez">
+       </td>
+    </tr>
+    </tbody>
+</table>
 
 ## Stats
 <table>
@@ -51,8 +54,6 @@
         </tr>
     </tbody>
 </table>
-
-  
 
 ## 𝗪𝗵𝗮𝘁 𝗜 𝗨𝘀𝗲
 <table style="margin: auto auto">
