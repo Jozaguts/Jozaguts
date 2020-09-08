@@ -1,4 +1,4 @@
-# **Hi!, i'm Sagit and I know stuff!** 
+# Hi!, I'm Sagit and I know stuff!
 
 
 
@@ -20,7 +20,7 @@
   </dd>
 </dl>
 
-##Stats
+## Stats
 <table>
    <thead>
     <tr>
