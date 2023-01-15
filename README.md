@@ -1,4 +1,4 @@
-# Hi buddies!, I'm Sagit
+# Hi!, I'm Sagit
 
 
 
