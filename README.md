@@ -24,7 +24,19 @@
     </tr>
     <tr>
         <td>
-        <h2>Experience</h2>        
+        <h2>Experience</h2>   
+           <h3>TravelWifi 2023-present</h3>
+            <p>
+            I contributed to the development of web applications using React, Laravel, Docker, and Vue. My work focused on creating responsive and efficient solutions, ensuring smooth user interactions and enhancing the overall user experience.
+            </p>
+          <h3>Ifahto Digital 2021-2023</h3>
+            <p>
+             I collaborated with Yii framework, Vue, Laravel, Nuxt.js, Nest.js, and SQL databases to develop complex web applications. My responsibilities included building robust, scalable, and responsive systems that met the client's needs.
+            </p>
+           <h3>Axovia Marketing 2020-2021</h3>
+            <p>
+             As a web developer, I worked with Vue and Laravel to create dynamic and user-friendly websites. My role involved designing and implementing web solutions, enhancing user experiences, and ensuring seamless functionality.
+            </p>
             <h3>GENERAL ASSEMBLY WEB DEVELOPER STUDENT - 2016-PRESENT</h3>
             <p>
                 Focused on building multiple projects and leaning how to work as a tech team tight deadline without constant guidance from instructors. Learned how to use Git, various workflows and how to quickly pick up multiple technologies and adapt them to ours goals  
